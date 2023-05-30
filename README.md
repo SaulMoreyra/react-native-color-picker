@@ -1,3 +1,6 @@
+# Example
+![image](https://github.com/SaulMoreyra/react-native-color-picker/assets/43731088/c8774895-aa79-4055-a2c3-d91c4be893c5)
+
 # TypeScript Example
 
 <p>
